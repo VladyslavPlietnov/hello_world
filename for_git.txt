@@ -1,1 +1,4 @@
 git init-> створення/ініціалізація нового репозиторія
+git whatever 
+git something
+woooow, so cool 
