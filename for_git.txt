@@ -2,3 +2,6 @@ git init-> створення/ініціалізація нового репоз
 git whatever 
 git something
 woooow, so cool 
+lalalalal
+tanga tanga 
+cha cha cha
